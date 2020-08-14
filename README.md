@@ -1,6 +1,8 @@
 # Google-Spreadsheet
 
 
+pour commencer le programme veiller extraire le fichier "projet.zip"
+
 
 Le projet consiste en 3 parties :
 ​
